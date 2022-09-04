@@ -1,4 +1,4 @@
-Analysis of data captured on covid19 
+Analysis of data captured on Covid-19 
 
  Objective: To Analyze and Interpret the effect of the SARS-CoV-2 across the globe and the vaccination status in India
 
